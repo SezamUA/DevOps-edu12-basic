@@ -1,3 +1,6 @@
+Basic CI: [![Continuous Integration](https://github.com/SezamUA/DevOps-edu12-basic/actions/workflows/basic_CI.yml/badge.svg)](https://github.com/SezamUA/DevOps-edu12-basic/actions/workflows/basic_CI.yml)
+
+
 ## Prerequisites:
 - Java JDK version 17+ should be installed in the system
 
